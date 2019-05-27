@@ -1,6 +1,6 @@
 # vscode-typescript-example
 
-## install
+## Install
 
 yarn install or npm install
 
