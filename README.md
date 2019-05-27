@@ -1,10 +1,10 @@
 # vscode-typescript-example
 
-Installation
+## install
 
 yarn install or npm install
 
-Running
+## Usage
 
 1. Ctrl+Shift+b to run watch mode on source (this will run terminal that will looks for changes in files).
 
